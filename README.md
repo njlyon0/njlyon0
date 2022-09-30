@@ -13,9 +13,15 @@ Some quick information about me:
 
 I am an author for the following R packages: 
 
-[`lterpalettefinder`](https://github.com/lter/lterpalettefinder#readme) – 🖌️ |  [`dndR`](https://github.com/njlyon0/dndR#readme) – 🏰 & 🐉 | [`helpR`](https://github.com/njlyon0/helpR#readme) – :wrench: | [`scicomptools`](https://github.com/NCEAS/scicomptools#readme) – 🧰 | [`HERON`](https://github.com/lter/HERON#readme) - :bird:
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/lter/lterpalettefinder/blob/main/inst/images/lterpalettefinder_hex.png" height = "175" align = "middle" />  | <img src="https://github.com/njlyon0/dndR/blob/main/inst/images/dndR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/njlyon0/helpR/blob/main/inst/images/helpR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/NCEAS/scicomptools/blob/main/inst/images/scicomptools_hex.png" height = "175" align = "middle" /> | Hex logo in development!
+**Package Title** | **Hex Logo**
+:-------------------------:|:-------------------------:
+`lterpalettefinder`: Extract Color Palettes from Photos and Pick Official LTER Palettes ([GitHub](https://github.com/lter/lterpalettefinder#readme)) | <img src="https://github.com/lter/lterpalettefinder/blob/main/inst/images/lterpalettefinder_hex.png" height = "175" align = "right" /> 
+`dndR`: An R Package for Dungeons & Dragons ([GitHub](https://github.com/njlyon0/dndR#readme)) | <img src="https://github.com/njlyon0/dndR/blob/main/inst/images/dndR_hex.png" height = "175" align = "right" />
+`helpR`: Miscellaneous Helper Functions for Coding in R ([GitHub](https://github.com/njlyon0/helpR#readme)) | <img src="https://github.com/njlyon0/helpR/blob/main/inst/images/helpR_hex.png" height = "175" align = "right" />
+`HERON`: *HE*lpers for *R*iver *O*bservatio*N* ([GitHub](https://github.com/lter/HERON#readme)) | Hex logo in development!
+`scicomptools`: Tools Developed by NCEAS’ Scientific Computing Support Team ([GitHub](https://github.com/NCEAS/scicomptools#readme)) | <img src="https://github.com/NCEAS/scicomptools/blob/main/inst/images/scicomptools_hex.png" height = "175" align = "middle" />
+
+---
 
 ## R Shiny Products
 
