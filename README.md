@@ -13,9 +13,9 @@ Some quick information about me:
 
 I am an author for the following R packages: 
 
-[`lterpalettefinder`](https://github.com/lter/lterpalettefinder#readme) – 🖌️ |  [`dndR`](https://github.com/njlyon0/dndR#readme) – 🏰 & 🐉 | [`helpR`](https://github.com/njlyon0/helpR#readme) – :wrench: | [`scicomptools`](https://github.com/NCEAS/scicomptools#readme) – 🧰
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/lter/lterpalettefinder/blob/main/inst/images/lterpalettefinder_hex.png" height = "175" align = "middle" />  | <img src="https://github.com/njlyon0/dndR/blob/main/inst/images/dndR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/njlyon0/helpR/blob/main/inst/images/helpR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/NCEAS/scicomptools/blob/main/inst/images/scicomptools_hex.png" height = "175" align = "middle" />
+[`lterpalettefinder`](https://github.com/lter/lterpalettefinder#readme) – 🖌️ |  [`dndR`](https://github.com/njlyon0/dndR#readme) – 🏰 & 🐉 | [`helpR`](https://github.com/njlyon0/helpR#readme) – :wrench: | [`scicomptools`](https://github.com/NCEAS/scicomptools#readme) – 🧰 | [`HERON`](https://github.com/lter/HERON#readme) - :bird:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/lter/lterpalettefinder/blob/main/inst/images/lterpalettefinder_hex.png" height = "175" align = "middle" />  | <img src="https://github.com/njlyon0/dndR/blob/main/inst/images/dndR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/njlyon0/helpR/blob/main/inst/images/helpR_hex.png" height = "175" align = "middle" /> | <img src="https://github.com/NCEAS/scicomptools/blob/main/inst/images/scicomptools_hex.png" height = "175" align = "middle" /> | Hex logo in development!
 
 ## R Shiny Products
 
