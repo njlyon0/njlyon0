@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm an ecologist with a wide range of data science experience that I am currently applying at [NCEAS](https://www.nceas.ucsb.edu/). Check out my public repositories for examples of my work.
 
 Some quick information about me:
- - ✨ Pronouns: He/Him
+ - ✨ Pronouns: he / him
  - 🌲 Personal website: [njlyon0.github.io](https://njlyon0.github.io/)
  - 🐧 Twitter: [scilyon](https://twitter.com/scilyon)
 
