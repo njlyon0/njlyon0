@@ -1,4 +1,4 @@
-# Hello! I'm Nick J Lyon (they / he)
+# Hello! I'm Nick J Lyon (they / them)
  
 ## Welcome!
   
