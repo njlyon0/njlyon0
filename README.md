@@ -2,13 +2,13 @@
  
 ## Welcome!
 
-<table>
+<table style="width:100%">
 <tr>
-<td>
+<td style="width:50%">
 Welcome to my GitHub profile! I'm an early career data scientist with significant ecology experience that I am currently applying at [NCEAS](https://www.nceas.ucsb.edu/). Check out my website ([njlyon0.github.io](https://njlyon0.github.io/)) and public repositories for examples of my work.
 
 </td>
-<td>
+<td style="width:50%">
 
 ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njlyon0&langs_count=8&theme=radical&layout=compact)
 
