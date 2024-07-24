@@ -1,8 +1,10 @@
 # Hello! I'm Nick J Lyon (_they / them_)
 
-<div align="center">
+<div>
   <table>
   <tr>
+
+## Welcome!
 
 Welcome to my GitHub profile! I'm an early career data scientist with significant ecology experience that I am currently applying at [NCEAS](https://www.nceas.ucsb.edu/). Check out my website ([njlyon0.github.io](https://njlyon0.github.io/)) and public repositories for examples of my work. 
 
