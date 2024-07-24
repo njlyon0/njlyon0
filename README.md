@@ -1,35 +1,8 @@
-<html>
-  
-.left_col {
-  align-items: left;
-  float: left;
-  width: 40%;
-}
+# Hello! I'm Nick J Lyon (_they / them_)
 
-.right_col{
-  align-items: center;
-  width: 60%;
-}
+Welcome to my GitHub profile! I'm an early career data scientist with significant ecology experience that I am currently applying at [NCEAS](https://www.nceas.ucsb.edu/). Check out my website ([njlyon0.github.io](https://njlyon0.github.io/)) and public repositories for examples of my work. The README stats card was created by \@[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
-<head>
-  <title> Hello! I'm Nick J Lyon (_they / them_) </title>
-</head>
-
-<body>
-
-<div class="left_col">
-  
-  Welcome to my GitHub profile! I'm an early career data scientist with significant ecology experience that I am currently applying at [NCEAS](https://www.nceas.ucsb.edu/). Check out my website ([njlyon0.github.io](https://njlyon0.github.io/)) and public repositories for examples of my work. 
-
-  </div>
-  <div class="right_col">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=njlyon0&langs_count=6&theme=noctis_minimus&layout=compact) 
-  ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njlyon0&langs_count=6&theme=noctis_minimus&layout=compact)
-
-  </div>
-</body>
-</html>
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=njlyon0&theme=jolly&rank_icon=github&hide=issues,contribs) ![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njlyon0&langs_count=6&theme=jolly&layout=compact)
 
 <!--
 **njlyon0/njlyon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
